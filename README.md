@@ -46,7 +46,8 @@
 
 🎉`how to decrible me`
 
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamZHC&theme=solarized-light)|![](https://github-readme-stats.vercel.app/api?username=AdamZHC&show_icons=true&theme=solarized-light)|
+
+|![](https://github-readme-stats.vercel.app/api?username=AdamZHC&show_icons=true&theme=solarized-light)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamZHC&theme=solarized-light)
 |-|-|
 
 [![jasonkay's LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=wu-hu-m2&cn=true&theme=dark)](https://leetcode-cn.com/u/jasonkay/)
