@@ -41,14 +41,14 @@
 
 🎐`What I've done below`
 
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamZHC&repo=simple_tomcat&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamZHC&repo=simple_spring&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamZHC&repo=simple_tomcat&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamZHC&repo=simple_spring&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
 |-|-|
 
 🎉`how to decrible me`
 
-|![](https://github-readme-stats.vercel.app/api?username=AdamZHC&show_icons=true&theme=solarized-light)|[![jasonkayzk's github Stats](https://stats.justsong.cn/api/github?username=AdamZHC&theme=dark)](https://github.com/JasonkayZK/jasonkayzk/)|
+|![](https://github-readme-stats.vercel.app/api?username=AdamZHC&show_icons=true&theme=solarized-light)|[![jasonkayzk's github Stats](https://stats.justsong.cn/api/github?username=AdamZHC&theme=gruvbox_light)](https://github.com/JasonkayZK/jasonkayzk/)|
 |-|-|
 
 
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamZHC&layout=compact&theme=solarized-light)|[![jasonkay's LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=wu-hu-m2&cn=true&theme=dark)](https://leetcode-cn.com/u/jasonkay/)|
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamZHC&theme=dark)|[![jasonkay's LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=wu-hu-m2&cn=true&theme=dark)](https://leetcode-cn.com/u/jasonkay/)|
 |-|-|
