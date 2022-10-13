@@ -1,5 +1,5 @@
 
-### Yo, I'm Adam 👋
+# Yo, I'm Adam 👋
 
 🤣`From Inner Mogonlia`
 
