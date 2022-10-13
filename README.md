@@ -23,7 +23,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AdamZHC&show_icons=true">
 
 
-👨‍❤️‍💋‍👨`Tried Language At Below`
+👨‍❤️‍💋‍👨`Tried Language At Below` 🎈`Technoliogy Stack`
 
 
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
@@ -32,10 +32,6 @@
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-
-🎐`Pretend Here is a Text '<br>'`
-
-🎈`Technoliogy Stack`
 
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
@@ -49,7 +45,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamZHC&repo=simple_spring)](https://github.com/anuraghazra/github-readme-stats)
 
 
-|![](https://github-readme-stats.vercel.app/api?username=jasonkayzk&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|[![jasonkayzk's github Stats](https://stats.justsong.cn/api/github?username=JasonkayZK&theme=dark)](https://github.com/JasonkayZK/jasonkayzk/)|
+|![](https://github-readme-stats.vercel.app/api?username=AdamZHC&&show_icons=true)|[![jasonkayzk's github Stats](https://stats.justsong.cn/api/github?username=AdamZHC)](https://github.com/JasonkayZK/jasonkayzk/)|
 |-|-|
 
 
