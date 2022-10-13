@@ -47,11 +47,5 @@
 
 
 
-[![jasonkay's LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=wu-hu-m2&cn=true&theme=black)](https://leetcode-cn.com/u/jasonkay/)
-
-`ArrayList LinkedList`
-
-`HashMap HashSet`
-
-`SegmentTree BinarySearch`
+[![jasonkay's LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=wu-hu-m2&cn=true&theme=dark)](https://leetcode-cn.com/u/jasonkay/)
 
