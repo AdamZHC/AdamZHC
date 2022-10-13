@@ -11,6 +11,9 @@
 ⏳`Absorbed in Programming java, python, shell, javascript, c++, Including Web, Socket, Linux`
 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AdamZHC&show_icons=true">
+
+
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Linux-Centos-2376bc?style=flat-square&logo=centos&logoColor=ffffff)](https://www.centos.org/)
@@ -19,9 +22,6 @@
 [![](https://img.shields.io/badge/IDE-PyCharm-blue?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
 [![](https://img.shields.io/badge/IDE-Clion-blue?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/clion/)
 [![](https://img.shields.io/badge/IDE-WebStorm-blue?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/webstorm/)
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AdamZHC&show_icons=true">
 
 
 👨‍❤️‍💋‍👨`Tried Language At Below`
