@@ -35,16 +35,20 @@
 [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-Gradle-f05032?style=flat-square&logo=gradle&logoColor=white)](https://gradle.org/)
+[![](https://img.shields.io/badge/-RabbitMQ-269539?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![](https://img.shields.io/badge/-Yarn-2496ED?style=flat-square&logo=yarn&logoColor=white)](https://yarnpkg.com/)
+[![](https://img.shields.io/badge/-Webpack-3776AB?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
+[![](https://img.shields.io/badge/-MongoDB-6DB33F?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamZHC&repo=simple_tomcat)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamZHC&repo=simple_spring)](https://github.com/anuraghazra/github-readme-stats)
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamZHC&repo=simple_tomcat)](https://github.com/anuraghazra/github-readme-stats)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamZHC&repo=simple_spring)](https://github.com/anuraghazra/github-readme-stats)|
+|-|-|
 
 
 |![](https://github-readme-stats.vercel.app/api?username=AdamZHC&&show_icons=true)|[![jasonkayzk's github Stats](https://stats.justsong.cn/api/github?username=AdamZHC)](https://github.com/JasonkayZK/jasonkayzk/)|
 |-|-|
 
 
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkayzk&layout=compact&theme=tokyonight&langs_count=10)|[![jasonkay's LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=Jasonkay&theme=dark&cn=true)](https://leetcode-cn.com/u/jasonkay/)|
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamZHC&layout=compact)|[![jasonkay's LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=AdamZHC&theme=dark&cn=true)](https://leetcode-cn.com/u/jasonkay/)|
 |-|-|
