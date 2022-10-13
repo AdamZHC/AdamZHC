@@ -40,8 +40,6 @@
 [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AdamZHC&show_icons=true">
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamZHC"> -->
