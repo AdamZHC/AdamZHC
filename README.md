@@ -20,8 +20,6 @@
 [![](https://img.shields.io/badge/IDE-Clion-blue?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/clion/)
 [![](https://img.shields.io/badge/IDE-WebStorm-blue?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/webstorm/)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AdamZHC&show_icons=true">
-
 
 👨‍❤️‍💋‍👨`Tried Language At Below` 🎈`Technoliogy Stack`
 
@@ -45,7 +43,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamZHC&repo=simple_spring)](https://github.com/anuraghazra/github-readme-stats)
 
 
-|![](https://github-readme-stats.vercel.app/api?username=AdamZHC&&show_icons=true)|[![jasonkayzk's github Stats](https://stats.justsong.cn/api/github?username=AdamZHC)](https://github.com/JasonkayZK/jasonkayzk/)|
+|![](https://github-readme-stats.vercel.app/api?username=AdamZHC&&show_icons=true)|(https://github.com/AdamZHC/)|
 |-|-|
 
 
