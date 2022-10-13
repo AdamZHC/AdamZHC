@@ -1,4 +1,6 @@
 
+### Yo, I'm Adam 👋
+
 🤣`From Inner Mogonlia`
 
 🤗`Studying in Harbin Institute of Technology, Magoring in Information Management and System`
