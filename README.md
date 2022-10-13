@@ -39,11 +39,6 @@
 [![](https://img.shields.io/badge/-Gradle-f05032?style=flat-square&logo=gradle&logoColor=white)](https://gradle.org/)
 [![](https://img.shields.io/badge/-RabbitMQ-269539?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 
-🎐`What I've done below`
-
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamZHC&repo=simple_tomcat&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamZHC&repo=simple_spring&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
-|-|-|
-
 🎉`how to decrible me`
 
 
