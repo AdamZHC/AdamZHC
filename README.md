@@ -47,7 +47,7 @@
 
 
 
-<img align="right" src="[![jasonkay's LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=wu-hu-m2&cn=true&theme=black)](https://leetcode-cn.com/u/jasonkay/)">
+[![jasonkay's LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=wu-hu-m2&cn=true&theme=black)](https://leetcode-cn.com/u/jasonkay/)
 
 `ArrayList LinkedList`
 
