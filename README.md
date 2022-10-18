@@ -22,7 +22,7 @@
 [![](https://img.shields.io/badge/Linux-Vim-blue?style=flat-square&logo=vim&logoColor=ffffff)](https://www.vim.org/)
 
 
-👨‍❤️‍💋‍👨`Tried Language At Below` 🎈`Technoliogy Stack`
+👨‍❤️‍💋‍👨`Tried Language At Below` 🎈`Technology Stack`
 
 
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
