@@ -39,7 +39,7 @@
 [![](https://img.shields.io/badge/-Gradle-f05032?style=flat-square&logo=gradle&logoColor=white)](https://gradle.org/)
 [![](https://img.shields.io/badge/-RabbitMQ-269539?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 
-🎉`how to decrible me`
+🎉`how to decribe me`
 
 
 |![](https://github-readme-stats.vercel.app/api?username=AdamZHC&show_icons=true&theme=solarized-light)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamZHC&theme=solarized-light)
